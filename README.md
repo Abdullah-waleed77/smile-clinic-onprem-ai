@@ -5,6 +5,11 @@ Patient data never leaves the building.
 
 > ⚠️ This is a **demo / learning project**. "Smile Dental Clinic" is a fictional client used to practise a real-world on-premise AI deployment end to end.
 
+## 🎬 Demo video
+https://github.com/user-attachments/assets/12f9cd2c-00de-4980-9349-36820e29366f
+
+
+
 ---
 
 ## The problem
